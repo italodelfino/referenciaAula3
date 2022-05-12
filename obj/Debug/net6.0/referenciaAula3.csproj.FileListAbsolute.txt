@@ -1,0 +1,15 @@
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.csproj.AssemblyReference.cache
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.AssemblyInfoInputs.cache
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.AssemblyInfo.cs
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.csproj.CoreCompileInputs.cache
+C:\Git\csharp-exemplo\referenciaAula3\bin\Debug\net6.0\referenciaAula3.exe
+C:\Git\csharp-exemplo\referenciaAula3\bin\Debug\net6.0\referenciaAula3.deps.json
+C:\Git\csharp-exemplo\referenciaAula3\bin\Debug\net6.0\referenciaAula3.runtimeconfig.json
+C:\Git\csharp-exemplo\referenciaAula3\bin\Debug\net6.0\referenciaAula3.dll
+C:\Git\csharp-exemplo\referenciaAula3\bin\Debug\net6.0\referenciaAula3.pdb
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.dll
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\refint\referenciaAula3.dll
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.pdb
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\referenciaAula3.genruntimeconfig.cache
+C:\Git\csharp-exemplo\referenciaAula3\obj\Debug\net6.0\ref\referenciaAula3.dll
